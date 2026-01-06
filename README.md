@@ -6,7 +6,7 @@ This repository contains an arcade honk busting game.
 
 # Game: HONK BUSTER
 An isometric shooter bomber game built in C# and XAML with Uno Platform WebAssembly.
-Play here: https://asadullahrifat89.github.io/honk-buster-game-uno-platform/
+Play here: https://asadullah-refat-89.github.io/honk-buster-game-uno-platform/
 
 ## Game Features
 
