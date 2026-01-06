@@ -2,7 +2,7 @@
 A simple game engine built with C#. XAML, HTML, CSS, and JavaScript that runs on Uno Platform & WebAssembly.
 This repository contains an arcade honk busting game.
 
-![master](https://github.com/asadullahrifat89/honk-buster-game-uno-platform/actions/workflows/main.yml/badge.svg)
+![master](https://github.com/asadullah-refat-89/honk-buster-game-uno-platform/actions/workflows/main.yml/badge.svg)
 
 # Game: HONK BUSTER
 An isometric shooter bomber game built in C# and XAML with Uno Platform WebAssembly.
